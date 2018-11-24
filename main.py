@@ -1,3 +1,3 @@
-from min import mmin, mmax
+from min import mmax
 
 print(mmax(4, 5))
