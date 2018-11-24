@@ -1,3 +1,3 @@
-from min import mmin
+from min import mmin, mmultiply
 
-print(mmin(4, 5))
+print(mmultiply(4, 5))

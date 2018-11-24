@@ -3,3 +3,6 @@ def mmin(a, b):
         return a
     else:
         return b
+
+def mmultiply(a, b):
+    return a*b
