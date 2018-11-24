@@ -1,3 +1,3 @@
-from min import mmin
+from min import mmin, mmax
 
-print(mmin(4, 5))
+print(mmax(4, 5))
