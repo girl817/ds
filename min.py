@@ -1,5 +1,5 @@
-def mmax(a, b):
-    if a > b:
+def mmin(a, b):
+    if a < b:
         return a
     else:
         return b
